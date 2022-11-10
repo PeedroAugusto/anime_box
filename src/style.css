@@ -1,0 +1,45 @@
+
+
+#lii {
+  display: flex;
+  display: grid;
+  max-width: 100%;
+  grid: repeat(5, 18%) / repeat(5, 19%);
+  min-width: 90%;
+  grid-gap: 40px 11px;
+  margin: 0 auto;
+}
+
+
+#lii .item .popup{
+  background: rgb(255, 255, 255);
+  border-radius: 6px;
+  padding: 24px;
+  margin-left: -101%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 4px 20px;
+  position: absolute;
+  top: 80px;
+  min-height: 140px;
+  width: 95%;
+  z-index: -1;
+  transition: 0.2s;
+  color: gray;
+}
+#lii .item:not(:nth-of-type(5n)) .popup{
+  background: rgb(255, 255, 255);
+  border-radius: 6px;
+  padding: 24px;
+  margin-left: 100%;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 4px 20px;
+  position: absolute;
+  top: 80px;
+  min-height: 140px;
+  width: 95%;
+  z-index: -1;
+  transition: 0.2s;
+  color: gray;
+} 
+#lii .item img:hover~div {
+  opacity: 1;
+  z-index: 2;
+}

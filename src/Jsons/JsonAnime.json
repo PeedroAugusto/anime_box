@@ -1,0 +1,1199 @@
+[
+    {
+        "id": 1,
+        "name": "HunterxHunter (2011)",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx11061-sIpBprNRfzCe.png",
+        "year": "2011",
+        "temps": "1 temp • 148 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Kimetsu no Yaiba",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101922-PEn1CTc93blC.jpg",
+        "year": "2016",
+        "temps": "2 temp • 37 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            },
+            {
+                "id": 5
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Chainsaw Man",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127230-FlochcFsyoF4.png",
+        "year": "2022",
+        "temps": "1 temp • 12 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 7
+            },
+            {
+                "id": 4
+            },
+            {
+                "id": 5
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "ONE PIECE",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21-tXMN3Y20PIL9.jpg",
+        "year": "1999",
+        "temps": "1 temp • 1038 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Blue Lock",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx137822-4dVWMSHLpGf8.png",
+        "year": "2022",
+        "temps": "1 temp • 4 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 8
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Fire Force",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105310-x4o2xMlfxIwb.jpg",
+        "year": "2019",
+        "temps": "2 temp • 48 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "Jujutsu no Kaisen",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113415-bbBWj4pEFseh.jpg",
+        "year": "2021",
+        "temps": "1 temp • 24 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Black Clover",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx97940-bPydLjny8PUw.png",
+        "year": "2021",
+        "temps": "1 temp • 170 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "Haikyuu!!",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20464-eW7ZDBOcn74a.png",
+        "year": "2021",
+        "temps": "4 temp • 85 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 5
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 8,
+                "name": "Sports"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "name": "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108465-B9S9zC68eS5j.jpg",
+        "year": "2021",
+        "temps": "2 temp • 23 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 2
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 10,
+                "name": "Ecchi"
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "Tensei Shitara Slime Datta Ken: Guren no Kizuna-hen",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx139498-DdVASeAj7ag4.jpg",
+        "year": "2018",
+        "temps": "3 temp • 78 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 2
+            },
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Mob Psycho 100",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21507-BICFCVZY3xQb.jpg",
+        "year": "2016",
+        "temps": "2 temp • 25 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 12
+            },
+            {
+                "id": 11
+            },
+            {
+                "id": 4
+            },
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "Kami no Tou: Tower of God",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx115230-QHOdSN7yt8ab.jpg",
+        "year": "2020",
+        "temps": "1 temp • 13 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 2
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 1
+            },
+            {
+                "id": 13
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "THE GOD OF HIGH SCHOOL",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx116006-Wt8JSA1ZQxlM.png",
+        "year": "2020",
+        "temps": "4 temp • 13 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 4
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "Overlord",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101474-tGRyvSAWMjU9.jpg",
+        "year": "2015",
+        "temps": "4 temp • 52 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 3
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "Youjo Senki",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21613-uh46F6TNGbNf.png",
+        "year": "2017",
+        "temps": "1 temp • 12 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 3
+            },
+            {
+                "id": 1
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "Attack on Titan",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx16498-C6FPmWm59CyP.jpg",
+        "year": "2013",
+        "temps": "6 temp • 87 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 13
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "Tokyo Revangers",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx120120-mBmQUtMloszF.jpg",
+        "year": "2021",
+        "temps": "1 temp • 24 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 14
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "Dr. Stone",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105333-BBxkPhen07Zj.jpg",
+        "year": "2019",
+        "temps": "2 temp • 35 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 9
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "Tokyo Ghoul",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20605-fmnHdfurM7m6.jpg",
+        "year": "2019",
+        "temps": "4 temp • 48 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 7
+            },
+            {
+                "id": 11
+            },
+            {
+                "id": 4
+            },
+            {
+                "id": 13
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "Vinland Saga",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101348-msJS8z91mG0P.jpg",
+        "year": "2019",
+        "temps": "1 temp • 24 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 5
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "Akame ga Kill!",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20613-4VGGPacciJBL.jpg",
+        "year": "2014",
+        "temps": "1 temp • 24 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 7
+            },
+            {
+                "id": 11
+            },
+            {
+                "id": 13
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "Tate no Yuusha no Nariagari",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b111321-3MFjZgG1muls.jpg",
+        "year": "2014",
+        "temps": "2 temp • 38 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "name": "Boku no Hero",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21459-DUKLgasrgeNO.jpg",
+        "year": "2016",
+        "temps": "6 temp • 113 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "name": "Horimiya",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx124080-h8EPH92nyRfS.jpg",
+        "year": "2021",
+        "temps": "1 temp • 13 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 6
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 14
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "name": "Sono Bisque Doll wa Koi wo Suru",
+        "img": "https://cdn.myanimelist.net/images/anime/1179/119897.jpg",
+        "year": "2021",
+        "temps": "1 temp • 12 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 6
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 14
+            },
+            {
+                "id": 10
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "Noragami",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20447-EoQXeygHaVCK.jpg",
+        "year": "2014",
+        "temps": "1 temp • 12 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 4
+            },
+            {
+                "id": 6
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "name": "Yakusoku no Neverland",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx101759-NhSwxv7HY9y9.jpg",
+        "year": "2014",
+        "temps": "2 temp • 23 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 5
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 7
+            },
+            {
+                "id": 13
+            },
+            {
+                "id": 11
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "Dorohedoro",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx105228-9KSgNMIX3kPa.jpg",
+        "year": "2020",
+        "temps": "1 temp • 12 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 7
+            },
+            {
+                "id": 13
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "name": "Ousama Ranking",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113717-fkqTxEqqga61.jpg",
+        "year": "2021",
+        "temps": "1 temp • 23 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 5
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "name": "Goblin Slayer",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx101165-dVgOyGhEP4mB.jpg",
+        "year": "2021",
+        "temps": "1 temp • 12 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 2
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "name": "Vanitas no Carte",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx135136-wVMApb1FEmkz.jpg",
+        "year": "2021",
+        "temps": "2 temp • 22 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 13
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "B: The Beginning",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx21665-QnenQOaxzhpf.jpg",
+        "year": "2018",
+        "temps": "2 temp • 18 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 11
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 13
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "name": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20920-3x2KtyeYQmaR.jpg",
+        "year": "2015",
+        "temps": "5 temp • 63 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 14
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "name": "No Game No Life",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx19815-bIo51RMWWhLv.jpg",
+        "year": "2014",
+        "temps": "2 temp • 18 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 10
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 6
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "name": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/medium/b98659-sH5z5RfMuyMr.png",
+        "year": "2017",
+        "temps": "2 temp • 25 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 5
+            },
+            {
+                "id": 11
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "Ansatsu Kyoushitsu",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20755-q0b3Ok1cAbPd.jpg",
+        "year": "2015",
+        "temps": "2 temp • 47 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 4
+            },
+            {
+                "id": 6
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "name": "Charlotte",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/nx20997-FGhaAtfnXCsH.jpg",
+        "year": "2015",
+        "temps": "1 temp • 13 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 4
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 14
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "name": "Kekkai Sensen",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20727-jgVnxLCHAKqZ.jpg",
+        "year": "2015",
+        "temps": "2 temp • 24 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 4
+            },
+            {
+                "id": 6
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "Sword Art Online",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx108759-jcXbDf9BJTcb.jpg",
+        "year": "2012",
+        "temps": "6 temp • 108 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 14
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "Tsuki ga Michibiku Isekai Douchuu",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx125206-O2MsOWdW1lVi.jpg",
+        "year": "2021",
+        "temps": "1 temp • 12 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 6
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "name": "Blue Period",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx128705-2PzZbN52XCGI.jpg",
+        "year": "2021",
+        "temps": "1 temp • 12 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 12
+            },
+            {
+                "id": 5
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "name": "Owari no Seraph",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20829-PYKVvgUqJVUK.png",
+        "year": "2015",
+        "temps": "1 temp • 12 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 13
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "name": "Fumetsu no Anata",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx114535-y3NnjexcqKG1.jpg",
+        "year": "2021",
+        "temps": "2 temp • 40 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 11
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "name": "Go-toubun no Hanayome",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx103572-2MXV30htoCSh.png",
+        "year": "2019",
+        "temps": "2 temp • 24 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 12
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 14
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "name": "Nanatsu no Taizai",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx20789-SsAI4pvvI9EU.jpg",
+        "year": "2014",
+        "temps": "3 temp • 72 eps",
+        "starts": 2,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 10
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "name": "SPY×FAMILY",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx140960-vN39AmOWrVB5.jpg",
+        "year": "2022",
+        "temps": "2 temp • 25 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 12
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "One Punch",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21416-IwCJBh54K3iw.jpg",
+        "year": "2015",
+        "temps": "2 temp • 24 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 9
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "Shuumatsu no Valkyrie",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx127399-AAH1pevCZLrB.jpg",
+        "year": "2021",
+        "temps": "1 temp • 12 eps",
+        "starts": 5,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 5
+            },
+            {
+                "id": 4
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "Koi to Uso",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx98320-VwCcTBeEs08J.jpg",
+        "year": "2017",
+        "temps": "1 temp • 12 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 5
+            },
+            {
+                "id": 14
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "Josee to Tora to Sakanatachi",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx113596-LKA0bYJGjLnB.jpg",
+        "year": "2020",
+        "temps": "Filme",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 5
+            },
+            {
+                "id": 14
+            },
+            {
+                "id": 12
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Magi: Sinbad no Bouken",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21394-yauvzIHGAoZv.jpg",
+        "year": "2016",
+        "temps": "1 temp • 13 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "Mamahaha no Tsurego ga Motokano datta",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx136934-BXmmENtggiHr.jpg",
+        "year": "2022",
+        "temps": "1 temp • 12 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 6
+            },
+            {
+                "id": 14
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "Ore dake Haireru Kakushi Dungeon",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx118375-95ClbAh2EQMD.jpg",
+        "year": "2021",
+        "temps": "1 temp • 12 eps",
+        "starts": 4,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 2
+            },
+            {
+                "id": 3
+            },
+            {
+                "id": 6
+            },
+            {
+                "id": 10
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "Ajin",
+        "img": "https://s4.anilist.co/file/anilistcdn/media/anime/cover/large/bx21341-Pyc7SkMEuGsl.jpg",
+        "year": "2016",
+        "temps": "1 temp • 13 eps",
+        "starts": 3,
+        "genres": [
+            {
+                "id": 1
+            },
+            {
+                "id": 4
+            },
+            {
+                "id": 7
+            },
+            {
+                "id": 13
+            }
+        ]
+    }
+]

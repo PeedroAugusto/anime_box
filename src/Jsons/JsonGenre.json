@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Action"
+    },
+    {
+        "id": 2,
+        "name": "Adventure"
+    },
+    {
+        "id": 3,
+        "name": "Fantasy"
+    },
+    {
+        "id": 4,
+        "name": "Supernatural"
+    },
+    {
+        "id": 5,
+        "name": "Drama"
+    },
+    {
+        "id": 6,
+        "name": "Comedy"
+    },
+    {
+        "id": 7,
+        "name": "Horror"
+    },
+    {
+        "id": 8,
+        "name": "Sports"
+    },
+    {
+        "id": 9,
+        "name": "Sci-Fi"
+    },
+    {
+        "id": 10,
+        "name": "Ecchi"
+    },
+    {
+        "id": 11,
+        "name": "Psychological"
+    },
+    {
+        "id": 12,
+        "name": "Slice of Life"
+    },
+    {
+        "id": 13,
+        "name": "Mystery"
+    },
+    {
+        "id": 14,
+        "name": "Romance"
+    }
+]
